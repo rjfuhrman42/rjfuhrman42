@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rjfuhrman42
+- 👋 Hi, I’m Reid Fuhrman
 - 👀 I’m interested in Fullstack Web Development!
 - 🌱 I’m currently learning Javascript, React, Gatsby, Node.
 - 💞️ I’m looking to collaborate on anything web development related!
