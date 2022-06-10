@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reid Fuhrman
-- 👀 I’m interested in Fullstack Web Development!
+- 👀 I’m interested in Fullstack Development!
 - 🌱 I’m currently learning React, React-native, JavaScript, Elixir, PostgreSQL and more.
 - 💞️ I’m looking to collaborate on anything web development related!
 - 📫 How to reach me: reidjf77@gmail
