@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Development!
 - 🌱 I’m currently learning React, React-native, JavaScript, Elixir, PostgreSQL and more.
 - 💞️ I’m looking to collaborate on anything web development related!
-- 📫 How to reach me: reidjf77@gmail
+- 📫 How to reach me: hey@reidfuhrman.com
 
 <!---
 rjfuhrman42/rjfuhrman42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
