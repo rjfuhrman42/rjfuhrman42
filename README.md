@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything web development related!
 - 📫 How to reach me: hey@reidfuhrman.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjfuhrman42)](https://github.com/anuraghazra/github-readme-stats)
+![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 
 <!---
 rjfuhrman42/rjfuhrman42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
