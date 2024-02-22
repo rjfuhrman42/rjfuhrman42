@@ -1,6 +1,3 @@
-![Static Badge](https://img.shields.io/badge/connect-Linkedin?style=flat&logo=linkedin&label=linkedin&labelColor=blue&color=gray)
-
-
 - 👋 Hi, I’m Reid Fuhrman
 - 👀 I’m interested in Full stack Development!
 - 🌱 I’m currently learning React, React-native, JavaScript, Python, PostgreSQL and more.
